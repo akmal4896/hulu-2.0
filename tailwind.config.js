@@ -5,7 +5,7 @@ module.exports = {
   ],
   theme: {
     extend: {
-      screen: {
+      screens: {
         "3xl": "2000px",
       },
     },
